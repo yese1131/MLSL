@@ -35,7 +35,7 @@ We also build hands-on experience with essential Python tools:
   - Model building (baseline & extended)
   - Cook’s Distance influence filtering
   - Visualization of residuals and quadratic effects
-- `data/watermelons.csv`: Cleaned historical watermelon dataset (log-transformed).
+- `watermelons.csv`: Cleaned historical watermelon dataset (log-transformed).
 - `images/`: Saved figures (residual plots, partial regressions, Cook’s Distance)
 
 ---
