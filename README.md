@@ -29,7 +29,7 @@ We also build hands-on experience with essential Python tools:
 
 ## What’s in this repo?
 
-- `FINAL_PROJECT.ipynb`: Jupyter notebook with:
+- `final.ipynb`: Jupyter notebook with:
   - Exploratory data analysis
   - Correlation & VIF diagnostics
   - Model building (baseline & extended)
